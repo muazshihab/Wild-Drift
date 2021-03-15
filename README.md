@@ -1,2 +1,2 @@
-# Wild-Drift
+# WildDrifting
 car race game
